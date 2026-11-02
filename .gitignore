@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+.next/
+
+# Java/Groovy
+build/
+.gradle/
+
+# Logs
+*.log
+
+# env
+.env
+
+# Database
+mysql-data/
